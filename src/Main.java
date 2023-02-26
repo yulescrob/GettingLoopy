@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         //Loop 1
-        /*for (int cnt=0; cnt<=30; cnt++)
+        for (int cnt=0; cnt<=30; cnt++)
         {
             System.out.println(cnt);
         }
@@ -50,7 +50,7 @@ public class Main {
                System.out.print("*");
            }
             System.out.println("");
-        }*/
+        }
 
         //Loop 7
         final int ROW =5;
